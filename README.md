@@ -17,6 +17,15 @@ springboot-security-thymeleaf-mysql-employee
 * ![image](https://github.com/sathees-saty/springboot-security-thymeleaf-mysql-employee/assets/65384711/ecb306e2-d230-4ac0-af41-c684b5a5d6e3)
 * Register new user
 * ![image](https://github.com/sathees-saty/springboot-security-thymeleaf-mysql-employee/assets/65384711/6fa18477-36e0-485c-8002-aade5e7b35f7)
+* Sign-in
+* ![image](https://github.com/sathees-saty/springboot-security-thymeleaf-mysql-employee/assets/65384711/f226f70d-ed21-4947-bff6-d92e87855844)
+* Employee list with update and delete option / add employee and logout links
+* ![image](https://github.com/sathees-saty/springboot-security-thymeleaf-mysql-employee/assets/65384711/f73c476c-a240-49ec-bc89-a510a0f3803f)
+* Add employee from employee list
+* ![image](https://github.com/sathees-saty/springboot-security-thymeleaf-mysql-employee/assets/65384711/24f98679-c0c5-4bb8-b1e4-05ec45fad162)
+
+
+
 
 
 
